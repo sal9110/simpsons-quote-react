@@ -1,0 +1,15 @@
+.wrapper{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.name{
+    font-size: large;
+    font-weight: 700;
+}
+.image{
+    width: 30vh;
+    min-width: 250px;
+    max-width: 300px;
+    margin: auto;
+}
